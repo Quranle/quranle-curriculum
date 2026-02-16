@@ -1,0 +1,1110 @@
+{
+  "version": "1.0.0",
+  "source": "Quranic Arabic Corpus — corpus.quran.com (University of Leeds)",
+  "roots": {
+    "ر ح م": {
+      "rootLetters": "ر ح م",
+      "coreMeaning": "mercy, compassion",
+      "sourceRef": "rHm",
+      "words": [
+        {
+          "arabic": "رَحْمَة",
+          "translation": "mercy",
+          "transliteration": "rahmah"
+        },
+        {
+          "arabic": "رَحْمَـٰن",
+          "translation": "Most Gracious",
+          "transliteration": "ar-Rahmaan"
+        },
+        {
+          "arabic": "رَحِيم",
+          "translation": "Most Merciful",
+          "transliteration": "ar-Raheem"
+        },
+        {
+          "arabic": "أَرْحَم",
+          "translation": "most merciful (of)",
+          "transliteration": "arham"
+        }
+      ]
+    },
+    "ح م د": {
+      "rootLetters": "ح م د",
+      "coreMeaning": "praise, gratitude",
+      "sourceRef": "Hmd",
+      "words": [
+        {
+          "arabic": "حَمْد",
+          "translation": "praise",
+          "transliteration": "hamd"
+        },
+        {
+          "arabic": "مُحَمَّد",
+          "translation": "Muhammad (praised one)",
+          "transliteration": "Muhammad"
+        },
+        {
+          "arabic": "أَحْمَد",
+          "translation": "Ahmad (most praised)",
+          "transliteration": "Ahmad"
+        },
+        {
+          "arabic": "حَمِيد",
+          "translation": "Praiseworthy",
+          "transliteration": "Hameed"
+        }
+      ]
+    },
+    "ر ب ب": {
+      "rootLetters": "ر ب ب",
+      "coreMeaning": "lord, master, nurturer",
+      "sourceRef": "rbb",
+      "words": [
+        {
+          "arabic": "رَبّ",
+          "translation": "Lord",
+          "transliteration": "Rabb"
+        },
+        {
+          "arabic": "رَبَّانِيّ",
+          "translation": "devoted to God",
+          "transliteration": "rabbaanee"
+        }
+      ]
+    },
+    "ع ل م": {
+      "rootLetters": "ع ل م",
+      "coreMeaning": "world, knowledge, sign",
+      "sourceRef": "Elm",
+      "words": [
+        {
+          "arabic": "عَالَمِين",
+          "translation": "worlds",
+          "transliteration": "aalameen"
+        },
+        {
+          "arabic": "عِلْم",
+          "translation": "knowledge",
+          "transliteration": "ilm"
+        },
+        {
+          "arabic": "عَلِيم",
+          "translation": "All-Knowing",
+          "transliteration": "Aleem"
+        },
+        {
+          "arabic": "عَلَّمَ",
+          "translation": "He taught",
+          "transliteration": "allama"
+        }
+      ]
+    },
+    "م ل ك": {
+      "rootLetters": "م ل ك",
+      "coreMeaning": "sovereignty, ownership, king",
+      "sourceRef": "mlk",
+      "words": [
+        {
+          "arabic": "مَـٰلِك",
+          "translation": "Master/Owner",
+          "transliteration": "Maalik"
+        },
+        {
+          "arabic": "مَلِك",
+          "translation": "King",
+          "transliteration": "Malik"
+        },
+        {
+          "arabic": "مُلْك",
+          "translation": "dominion",
+          "transliteration": "mulk"
+        },
+        {
+          "arabic": "مَلَائِكَة",
+          "translation": "angels",
+          "transliteration": "malaaikah"
+        }
+      ]
+    },
+    "د ي ن": {
+      "rootLetters": "د ي ن",
+      "coreMeaning": "religion, judgement, recompense",
+      "sourceRef": "dyn",
+      "words": [
+        {
+          "arabic": "دِين",
+          "translation": "religion/judgement",
+          "transliteration": "deen"
+        },
+        {
+          "arabic": "يَوْم الدِّين",
+          "translation": "Day of Judgement",
+          "transliteration": "yawm ad-deen"
+        }
+      ]
+    },
+    "ع ب د": {
+      "rootLetters": "ع ب د",
+      "coreMeaning": "worship, servitude",
+      "sourceRef": "Ebd",
+      "words": [
+        {
+          "arabic": "نَعْبُدُ",
+          "translation": "we worship",
+          "transliteration": "nabudu"
+        },
+        {
+          "arabic": "عَبْد",
+          "translation": "servant/slave",
+          "transliteration": "abd"
+        },
+        {
+          "arabic": "عِبَادَة",
+          "translation": "worship",
+          "transliteration": "ibaadah"
+        },
+        {
+          "arabic": "عِبَاد",
+          "translation": "servants",
+          "transliteration": "ibaad"
+        }
+      ]
+    },
+    "ع و ن": {
+      "rootLetters": "ع و ن",
+      "coreMeaning": "help, assistance",
+      "sourceRef": "Ewn",
+      "words": [
+        {
+          "arabic": "نَسْتَعِينُ",
+          "translation": "we seek help",
+          "transliteration": "nastaeen"
+        },
+        {
+          "arabic": "أَعَانَ",
+          "translation": "He helped",
+          "transliteration": "aana"
+        }
+      ]
+    },
+    "هـ د ي": {
+      "rootLetters": "هـ د ي",
+      "coreMeaning": "guidance",
+      "sourceRef": "hdy",
+      "words": [
+        {
+          "arabic": "اهْدِنَا",
+          "translation": "guide us",
+          "transliteration": "ihdinaa"
+        },
+        {
+          "arabic": "هُدًى",
+          "translation": "guidance",
+          "transliteration": "hudan"
+        },
+        {
+          "arabic": "هَادِي",
+          "translation": "guide",
+          "transliteration": "haadi"
+        },
+        {
+          "arabic": "مُهْتَدِي",
+          "translation": "rightly guided",
+          "transliteration": "muhtadee"
+        }
+      ]
+    },
+    "ص ر ط": {
+      "rootLetters": "ص ر ط",
+      "coreMeaning": "path, way",
+      "sourceRef": "SrT",
+      "words": [
+        {
+          "arabic": "صِرَاط",
+          "translation": "path",
+          "transliteration": "siraat"
+        },
+        {
+          "arabic": "صِرَاط مُسْتَقِيم",
+          "translation": "straight path",
+          "transliteration": "siraat al-mustaqeem"
+        }
+      ]
+    },
+    "ن ع م": {
+      "rootLetters": "ن ع م",
+      "coreMeaning": "blessing, favour",
+      "sourceRef": "nEm",
+      "words": [
+        {
+          "arabic": "أَنْعَمْتَ",
+          "translation": "You have blessed",
+          "transliteration": "anamta"
+        },
+        {
+          "arabic": "نِعْمَة",
+          "translation": "blessing",
+          "transliteration": "nimah"
+        }
+      ]
+    },
+    "غ ض ب": {
+      "rootLetters": "غ ض ب",
+      "coreMeaning": "anger, wrath",
+      "sourceRef": "gDb",
+      "words": [
+        {
+          "arabic": "مَغْضُوب",
+          "translation": "those who earned anger",
+          "transliteration": "maghdoob"
+        },
+        {
+          "arabic": "غَضَب",
+          "translation": "anger",
+          "transliteration": "ghadab"
+        }
+      ]
+    },
+    "ض ل ل": {
+      "rootLetters": "ض ل ل",
+      "coreMeaning": "going astray, misguidance",
+      "sourceRef": "Dll",
+      "words": [
+        {
+          "arabic": "ضَالِّين",
+          "translation": "those who go astray",
+          "transliteration": "daaalleen"
+        },
+        {
+          "arabic": "ضَلَال",
+          "translation": "misguidance",
+          "transliteration": "dalaal"
+        }
+      ]
+    },
+    "ا ل ه": {
+      "rootLetters": "ا ل ه",
+      "coreMeaning": "God, deity",
+      "sourceRef": "Alh",
+      "words": [
+        {
+          "arabic": "اللَّه",
+          "translation": "Allah (God)",
+          "transliteration": "Allah"
+        },
+        {
+          "arabic": "إِلَـٰه",
+          "translation": "god/deity",
+          "transliteration": "ilaah"
+        }
+      ]
+    },
+    "ي و م": {
+      "rootLetters": "ي و م",
+      "coreMeaning": "day",
+      "sourceRef": "ywm",
+      "words": [
+        {
+          "arabic": "يَوْم",
+          "translation": "day",
+          "transliteration": "yawm"
+        },
+        {
+          "arabic": "يَوْمَئِذ",
+          "translation": "on that day",
+          "transliteration": "yawma-idhin"
+        }
+      ]
+    },
+    "ق و ل": {
+      "rootLetters": "ق و ل",
+      "coreMeaning": "speech, saying",
+      "sourceRef": "qwl",
+      "words": [
+        {
+          "arabic": "قُلْ",
+          "translation": "Say!",
+          "transliteration": "qul"
+        },
+        {
+          "arabic": "قَوْل",
+          "translation": "speech/saying",
+          "transliteration": "qawl"
+        },
+        {
+          "arabic": "قَالَ",
+          "translation": "he said",
+          "transliteration": "qaala"
+        }
+      ]
+    },
+    "و ح د": {
+      "rootLetters": "و ح د",
+      "coreMeaning": "oneness, unity",
+      "sourceRef": "wHd",
+      "words": [
+        {
+          "arabic": "أَحَد",
+          "translation": "One",
+          "transliteration": "ahad"
+        },
+        {
+          "arabic": "وَاحِد",
+          "translation": "one/single",
+          "transliteration": "waahid"
+        }
+      ]
+    },
+    "ص م د": {
+      "rootLetters": "ص م د",
+      "coreMeaning": "eternal, self-sufficient",
+      "sourceRef": "Smd",
+      "words": [
+        {
+          "arabic": "صَمَد",
+          "translation": "the Eternal Refuge",
+          "transliteration": "as-Samad"
+        }
+      ]
+    },
+    "و ل د": {
+      "rootLetters": "و ل د",
+      "coreMeaning": "birth, offspring",
+      "sourceRef": "wld",
+      "words": [
+        {
+          "arabic": "يَلِدْ",
+          "translation": "He begets",
+          "transliteration": "yalid"
+        },
+        {
+          "arabic": "يُولَدْ",
+          "translation": "He is begotten",
+          "transliteration": "yoolad"
+        },
+        {
+          "arabic": "وَلَد",
+          "translation": "child",
+          "transliteration": "walad"
+        }
+      ]
+    },
+    "ك و ن": {
+      "rootLetters": "ك و ن",
+      "coreMeaning": "being, existence",
+      "sourceRef": "kwn",
+      "words": [
+        {
+          "arabic": "يَكُنْ",
+          "translation": "there is",
+          "transliteration": "yakun"
+        },
+        {
+          "arabic": "كَانَ",
+          "translation": "was/existed",
+          "transliteration": "kaana"
+        },
+        {
+          "arabic": "كُنْ",
+          "translation": "Be!",
+          "transliteration": "kun"
+        }
+      ]
+    },
+    "ك ف أ": {
+      "rootLetters": "ك ف أ",
+      "coreMeaning": "equivalence, equal",
+      "sourceRef": "kf>",
+      "words": [
+        {
+          "arabic": "كُفُوًا",
+          "translation": "equivalent",
+          "transliteration": "kufuwan"
+        }
+      ]
+    },
+    "ع و ذ": {
+      "rootLetters": "ع و ذ",
+      "coreMeaning": "seeking refuge, protection",
+      "sourceRef": "Ew*",
+      "words": [
+        {
+          "arabic": "أَعُوذُ",
+          "translation": "I seek refuge",
+          "transliteration": "aoodhu"
+        },
+        {
+          "arabic": "مَعَاذ",
+          "translation": "refuge",
+          "transliteration": "maadh"
+        }
+      ]
+    },
+    "ف ل ق": {
+      "rootLetters": "ف ل ق",
+      "coreMeaning": "daybreak, splitting",
+      "sourceRef": "flq",
+      "words": [
+        {
+          "arabic": "فَلَق",
+          "translation": "daybreak",
+          "transliteration": "falaq"
+        }
+      ]
+    },
+    "خ ل ق": {
+      "rootLetters": "خ ل ق",
+      "coreMeaning": "creation, to create",
+      "sourceRef": "xlq",
+      "words": [
+        {
+          "arabic": "خَلَقَ",
+          "translation": "He created",
+          "transliteration": "khalaqa"
+        },
+        {
+          "arabic": "خَلْق",
+          "translation": "creation",
+          "transliteration": "khalq"
+        },
+        {
+          "arabic": "خَالِق",
+          "translation": "Creator",
+          "transliteration": "Khaaliq"
+        }
+      ]
+    },
+    "ش ر ر": {
+      "rootLetters": "ش ر ر",
+      "coreMeaning": "evil, harm",
+      "sourceRef": "$rr",
+      "words": [
+        {
+          "arabic": "شَرّ",
+          "translation": "evil",
+          "transliteration": "sharr"
+        }
+      ]
+    },
+    "غ س ق": {
+      "rootLetters": "غ س ق",
+      "coreMeaning": "darkness",
+      "sourceRef": "gsq",
+      "words": [
+        {
+          "arabic": "غَاسِق",
+          "translation": "darkness (of night)",
+          "transliteration": "ghaasiq"
+        }
+      ]
+    },
+    "و ق ب": {
+      "rootLetters": "و ق ب",
+      "coreMeaning": "to set, spread",
+      "sourceRef": "wqb",
+      "words": [
+        {
+          "arabic": "وَقَبَ",
+          "translation": "when it spreads",
+          "transliteration": "waqab"
+        }
+      ]
+    },
+    "ن ف ث": {
+      "rootLetters": "ن ف ث",
+      "coreMeaning": "blowing",
+      "sourceRef": "nfv",
+      "words": [
+        {
+          "arabic": "نَفَّـٰثَـٰت",
+          "translation": "those who blow",
+          "transliteration": "naffaathaat"
+        }
+      ]
+    },
+    "ع ق د": {
+      "rootLetters": "ع ق د",
+      "coreMeaning": "knots, tying",
+      "sourceRef": "Eqd",
+      "words": [
+        {
+          "arabic": "عُقَد",
+          "translation": "knots",
+          "transliteration": "uqad"
+        }
+      ]
+    },
+    "ح س د": {
+      "rootLetters": "ح س د",
+      "coreMeaning": "envy, jealousy",
+      "sourceRef": "Hsd",
+      "words": [
+        {
+          "arabic": "حَاسِد",
+          "translation": "envier",
+          "transliteration": "haasid"
+        },
+        {
+          "arabic": "حَسَد",
+          "translation": "envy",
+          "transliteration": "hasad"
+        }
+      ]
+    },
+    "ن ا س": {
+      "rootLetters": "ن ا س",
+      "coreMeaning": "people, mankind",
+      "sourceRef": "nws",
+      "words": [
+        {
+          "arabic": "نَاس",
+          "translation": "people/mankind",
+          "transliteration": "naas"
+        }
+      ]
+    },
+    "و س و س": {
+      "rootLetters": "و س و س",
+      "coreMeaning": "whispering",
+      "sourceRef": "wsww",
+      "words": [
+        {
+          "arabic": "وَسْوَاس",
+          "translation": "whisperer",
+          "transliteration": "waswaas"
+        },
+        {
+          "arabic": "يُوَسْوِسُ",
+          "translation": "he whispers",
+          "transliteration": "yuwaswisu"
+        }
+      ]
+    },
+    "خ ن س": {
+      "rootLetters": "خ ن س",
+      "coreMeaning": "retreating, withdrawing",
+      "sourceRef": "xns",
+      "words": [
+        {
+          "arabic": "خَنَّاس",
+          "translation": "the retreating one",
+          "transliteration": "khannaas"
+        }
+      ]
+    },
+    "ص د ر": {
+      "rootLetters": "ص د ر",
+      "coreMeaning": "chest, breast",
+      "sourceRef": "Sdr",
+      "words": [
+        {
+          "arabic": "صُدُور",
+          "translation": "chests/breasts",
+          "transliteration": "sudoor"
+        },
+        {
+          "arabic": "صَدْر",
+          "translation": "chest",
+          "transliteration": "sadr"
+        }
+      ]
+    },
+    "ج ن ن": {
+      "rootLetters": "ج ن ن",
+      "coreMeaning": "hidden, unseen",
+      "sourceRef": "jnn",
+      "words": [
+        {
+          "arabic": "جِنَّة",
+          "translation": "jinn",
+          "transliteration": "jinnah"
+        },
+        {
+          "arabic": "جَنَّة",
+          "translation": "paradise/garden",
+          "transliteration": "jannah"
+        }
+      ]
+    },
+    "خ ي ر": {
+      "rootLetters": "خ ي ر",
+      "coreMeaning": "good, goodness",
+      "sourceRef": "xyr",
+      "words": [
+        {
+          "arabic": "خَيْر",
+          "translation": "good",
+          "transliteration": "khayr"
+        },
+        {
+          "arabic": "خَيْرَات",
+          "translation": "good things",
+          "transliteration": "khayraat"
+        }
+      ]
+    },
+    "ع ص ر": {
+      "rootLetters": "ع ص ر",
+      "coreMeaning": "time, era, pressing",
+      "sourceRef": "ESr",
+      "words": [
+        {
+          "arabic": "عَصْر",
+          "translation": "time/era",
+          "transliteration": "asr"
+        }
+      ]
+    },
+    "خ س ر": {
+      "rootLetters": "خ س ر",
+      "coreMeaning": "loss",
+      "sourceRef": "xsr",
+      "words": [
+        {
+          "arabic": "خُسْر",
+          "translation": "loss",
+          "transliteration": "khusr"
+        },
+        {
+          "arabic": "خَاسِر",
+          "translation": "loser",
+          "transliteration": "khaasir"
+        }
+      ]
+    },
+    "ا م ن": {
+      "rootLetters": "ا م ن",
+      "coreMeaning": "faith, security, belief",
+      "sourceRef": "Amn",
+      "words": [
+        {
+          "arabic": "آمَنُوا",
+          "translation": "they believed",
+          "transliteration": "aamanoo"
+        },
+        {
+          "arabic": "إِيمَان",
+          "translation": "faith",
+          "transliteration": "eemaan"
+        },
+        {
+          "arabic": "مُؤْمِن",
+          "translation": "believer",
+          "transliteration": "mumin"
+        },
+        {
+          "arabic": "أَمِين",
+          "translation": "trustworthy",
+          "transliteration": "ameen"
+        }
+      ]
+    },
+    "ع م ل": {
+      "rootLetters": "ع م ل",
+      "coreMeaning": "work, deed, action",
+      "sourceRef": "Eml",
+      "words": [
+        {
+          "arabic": "عَمِلُوا",
+          "translation": "they did/worked",
+          "transliteration": "amiloo"
+        },
+        {
+          "arabic": "عَمَل",
+          "translation": "deed/work",
+          "transliteration": "amal"
+        },
+        {
+          "arabic": "عَامِل",
+          "translation": "worker/doer",
+          "transliteration": "aamil"
+        }
+      ]
+    },
+    "ص ل ح": {
+      "rootLetters": "ص ل ح",
+      "coreMeaning": "righteousness, good deeds",
+      "sourceRef": "SlH",
+      "words": [
+        {
+          "arabic": "صَالِحَات",
+          "translation": "righteous deeds",
+          "transliteration": "saalihaat"
+        },
+        {
+          "arabic": "صَالِح",
+          "translation": "righteous",
+          "transliteration": "saalih"
+        },
+        {
+          "arabic": "إِصْلَاح",
+          "translation": "reform",
+          "transliteration": "islaah"
+        }
+      ]
+    },
+    "و ص ي": {
+      "rootLetters": "و ص ي",
+      "coreMeaning": "advising, recommending",
+      "sourceRef": "wSy",
+      "words": [
+        {
+          "arabic": "تَوَاصَوْا",
+          "translation": "they advised each other",
+          "transliteration": "tawasaw"
+        }
+      ]
+    },
+    "ح ق ق": {
+      "rootLetters": "ح ق ق",
+      "coreMeaning": "truth, right",
+      "sourceRef": "Hqq",
+      "words": [
+        {
+          "arabic": "حَقّ",
+          "translation": "truth",
+          "transliteration": "haqq"
+        },
+        {
+          "arabic": "حَقِيق",
+          "translation": "true/deserving",
+          "transliteration": "haqeeq"
+        }
+      ]
+    },
+    "ص ب ر": {
+      "rootLetters": "ص ب ر",
+      "coreMeaning": "patience, endurance",
+      "sourceRef": "Sbr",
+      "words": [
+        {
+          "arabic": "صَبْر",
+          "translation": "patience",
+          "transliteration": "sabr"
+        },
+        {
+          "arabic": "صَابِر",
+          "translation": "patient one",
+          "transliteration": "saabir"
+        }
+      ]
+    },
+    "ق د ر": {
+      "rootLetters": "ق د ر",
+      "coreMeaning": "power, ability, decree",
+      "sourceRef": "qdr",
+      "words": [
+        {
+          "arabic": "قَدِير",
+          "translation": "All-Powerful",
+          "transliteration": "Qadeer"
+        },
+        {
+          "arabic": "قَدْر",
+          "translation": "decree/measure",
+          "transliteration": "qadr"
+        },
+        {
+          "arabic": "قَادِر",
+          "translation": "able",
+          "transliteration": "qaadir"
+        }
+      ]
+    },
+    "س م ع": {
+      "rootLetters": "س م ع",
+      "coreMeaning": "hearing, listening",
+      "sourceRef": "smE",
+      "words": [
+        {
+          "arabic": "سَمِيع",
+          "translation": "All-Hearing",
+          "transliteration": "Samee"
+        },
+        {
+          "arabic": "سَمِعَ",
+          "translation": "he heard",
+          "transliteration": "samia"
+        }
+      ]
+    },
+    "ب ص ر": {
+      "rootLetters": "ب ص ر",
+      "coreMeaning": "sight, vision",
+      "sourceRef": "bSr",
+      "words": [
+        {
+          "arabic": "بَصِير",
+          "translation": "All-Seeing",
+          "transliteration": "Baseer"
+        },
+        {
+          "arabic": "بَصَر",
+          "translation": "sight",
+          "transliteration": "basar"
+        }
+      ]
+    },
+    "ق د س": {
+      "rootLetters": "ق د س",
+      "coreMeaning": "holiness, purity",
+      "sourceRef": "qds",
+      "words": [
+        {
+          "arabic": "قُدُّوس",
+          "translation": "the Holy One",
+          "transliteration": "Quddoos"
+        }
+      ]
+    },
+    "س ل م": {
+      "rootLetters": "س ل م",
+      "coreMeaning": "peace, submission",
+      "sourceRef": "slm",
+      "words": [
+        {
+          "arabic": "سَلَام",
+          "translation": "peace",
+          "transliteration": "salaam"
+        },
+        {
+          "arabic": "إِسْلَام",
+          "translation": "Islam (submission)",
+          "transliteration": "Islaam"
+        },
+        {
+          "arabic": "مُسْلِم",
+          "translation": "Muslim (one who submits)",
+          "transliteration": "Muslim"
+        }
+      ]
+    },
+    "ع ز ز": {
+      "rootLetters": "ع ز ز",
+      "coreMeaning": "might, honour",
+      "sourceRef": "Ezz",
+      "words": [
+        {
+          "arabic": "عَزِيز",
+          "translation": "the Almighty",
+          "transliteration": "Azeez"
+        },
+        {
+          "arabic": "عِزَّة",
+          "translation": "honour/might",
+          "transliteration": "izzah"
+        }
+      ]
+    },
+    "ج ب ر": {
+      "rootLetters": "ج ب ر",
+      "coreMeaning": "compulsion, mending",
+      "sourceRef": "jbr",
+      "words": [
+        {
+          "arabic": "جَبَّار",
+          "translation": "the Compeller",
+          "transliteration": "Jabbaar"
+        }
+      ]
+    },
+    "ك ب ر": {
+      "rootLetters": "ك ب ر",
+      "coreMeaning": "greatness, pride",
+      "sourceRef": "kbr",
+      "words": [
+        {
+          "arabic": "مُتَكَبِّر",
+          "translation": "the Supreme",
+          "transliteration": "Mutakabbir"
+        },
+        {
+          "arabic": "كَبِير",
+          "translation": "great/big",
+          "transliteration": "kabeer"
+        },
+        {
+          "arabic": "أَكْبَر",
+          "translation": "greater/greatest",
+          "transliteration": "Akbar"
+        }
+      ]
+    },
+    "س م و": {
+      "rootLetters": "س م و",
+      "coreMeaning": "sky, elevation",
+      "sourceRef": "smw",
+      "words": [
+        {
+          "arabic": "سَمَاء",
+          "translation": "sky/heaven",
+          "transliteration": "samaa"
+        },
+        {
+          "arabic": "سَمَاوَات",
+          "translation": "heavens",
+          "transliteration": "samaawaat"
+        }
+      ]
+    },
+    "ا ر ض": {
+      "rootLetters": "ا ر ض",
+      "coreMeaning": "earth, land",
+      "sourceRef": "ArD",
+      "words": [
+        {
+          "arabic": "أَرْض",
+          "translation": "earth",
+          "transliteration": "ard"
+        }
+      ]
+    },
+    "ق ر أ": {
+      "rootLetters": "ق ر أ",
+      "coreMeaning": "reading, recitation",
+      "sourceRef": "qr>",
+      "words": [
+        {
+          "arabic": "اقْرَأْ",
+          "translation": "Read!",
+          "transliteration": "iqra"
+        },
+        {
+          "arabic": "قُرْآن",
+          "translation": "Quran (recitation)",
+          "transliteration": "Quran"
+        }
+      ]
+    },
+    "ع ل ق": {
+      "rootLetters": "ع ل ق",
+      "coreMeaning": "clinging, attachment",
+      "sourceRef": "Elq",
+      "words": [
+        {
+          "arabic": "عَلَق",
+          "translation": "clinging clot",
+          "transliteration": "alaq"
+        }
+      ]
+    },
+    "ق ل م": {
+      "rootLetters": "ق ل م",
+      "coreMeaning": "pen, writing",
+      "sourceRef": "qlm",
+      "words": [
+        {
+          "arabic": "قَلَم",
+          "translation": "pen",
+          "transliteration": "qalam"
+        }
+      ]
+    },
+    "ك ف ر": {
+      "rootLetters": "ك ف ر",
+      "coreMeaning": "denial, disbelief, covering",
+      "sourceRef": "kfr",
+      "words": [
+        {
+          "arabic": "كَفَرُوا",
+          "translation": "they disbelieved",
+          "transliteration": "kafaroo"
+        },
+        {
+          "arabic": "كَافِر",
+          "translation": "disbeliever",
+          "transliteration": "kaafir"
+        },
+        {
+          "arabic": "كُفْر",
+          "translation": "disbelief",
+          "transliteration": "kufr"
+        }
+      ]
+    },
+    "ق و م": {
+      "rootLetters": "ق و م",
+      "coreMeaning": "standing, establishing, resurrection",
+      "sourceRef": "qwm",
+      "words": [
+        {
+          "arabic": "قَامَ",
+          "translation": "he stood",
+          "transliteration": "qaama"
+        },
+        {
+          "arabic": "قِيَامَة",
+          "translation": "resurrection",
+          "transliteration": "qiyaamah"
+        },
+        {
+          "arabic": "مُسْتَقِيم",
+          "translation": "straight",
+          "transliteration": "mustaqeem"
+        },
+        {
+          "arabic": "قَيُّوم",
+          "translation": "Self-Subsisting",
+          "transliteration": "Qayyoom"
+        }
+      ]
+    },
+    "ح ي ي": {
+      "rootLetters": "ح ي ي",
+      "coreMeaning": "life, living",
+      "sourceRef": "Hyy",
+      "words": [
+        {
+          "arabic": "حَيّ",
+          "translation": "the Ever-Living",
+          "transliteration": "Hayy"
+        },
+        {
+          "arabic": "حَيَاة",
+          "translation": "life",
+          "transliteration": "hayaah"
+        },
+        {
+          "arabic": "أَحْيَا",
+          "translation": "He gave life",
+          "transliteration": "ahyaa"
+        }
+      ]
+    },
+    "ك ر س": {
+      "rootLetters": "ك ر س",
+      "coreMeaning": "throne, seat",
+      "sourceRef": "krs",
+      "words": [
+        {
+          "arabic": "كُرْسِيّ",
+          "translation": "throne/seat",
+          "transliteration": "kursiyy"
+        }
+      ]
+    },
+    "ع ل و": {
+      "rootLetters": "ع ل و",
+      "coreMeaning": "highness, exaltedness",
+      "sourceRef": "Elw",
+      "words": [
+        {
+          "arabic": "عَلِيّ",
+          "translation": "the Most High",
+          "transliteration": "Aliyy"
+        },
+        {
+          "arabic": "أَعْلَى",
+          "translation": "most high",
+          "transliteration": "alaa"
+        },
+        {
+          "arabic": "تَعَالَى",
+          "translation": "He is exalted",
+          "transliteration": "taaala"
+        }
+      ]
+    }
+  }
+}
