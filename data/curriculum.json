@@ -161,6 +161,23 @@
           "concept": "Nouns of praise & the possessive",
           "description": "Learn words of praise and how Arabic shows possession",
           "order": 2,
+          "grammarTip": {
+            "title": "الدِّين — Religion AND Judgement",
+            "explanation": "The root د-ي-ن has a dual meaning in the Quran. In يَوْمِ الدِّينِ (1:4), it means \"the Day of Judgement\". But in لَكُمْ دِينُكُمْ وَلِيَ دِينِ (109:6), it means \"your religion/way of life\". Context determines which meaning applies — both come from the same root.",
+            "sourceNote": "Root د-ي-ن: corpus.quran.com/qurandictionary.jsp?q=dyn — 92 occurrences",
+            "examples": [
+              {
+                "arabic": "يَوْمِ الدِّينِ",
+                "english": "Day of Judgement",
+                "transliteration": "yawm ad-deen"
+              },
+              {
+                "arabic": "لَكُمْ دِينُكُمْ",
+                "english": "For you is your religion",
+                "transliteration": "lakum deenukum"
+              }
+            ]
+          },
           "rootFamilies": [
             "ح م د",
             "ر ب ب",
@@ -376,7 +393,8 @@
             "ع و ن",
             "هـ د ي",
             "ص ر ط",
-            "ن ع م"
+            "ن ع م",
+            "ق و م"
           ],
           "vocabulary": [
             {
@@ -441,7 +459,9 @@
               "arabic": "ٱلْمُسْتَقِيمَ",
               "translation": "the straight",
               "transliteration": "al-mustaqeem",
-              "quranFrequency": 0,
+              "rootLetters": "ق و م",
+              "quranFrequency": 37,
+              "frequencyRef": "qwm:musotaqiym",
               "exampleAyah": {
                 "surahId": 1,
                 "ayahId": 6
@@ -722,101 +742,149 @@
         },
         {
           "id": "cs1_u5",
-          "name": "Common Particles",
-          "concept": "Prepositions & conjunctions",
-          "description": "Learn the small words that connect everything together",
+          "name": "The Oneness of God",
+          "concept": "Surah Al-Ikhlas — قل هو الله أحد",
+          "description": "Learn every word of Surah Al-Ikhlas and its deep meaning",
           "order": 5,
           "grammarTip": {
-            "title": "Particles (حُرُوف)",
-            "explanation": "Arabic particles are small words that show relationships between other words. They don't change form and are among the most common words in the Quran. Knowing just 8 particles lets you recognise a huge portion of the Quran!",
-            "sourceNote": "Standard Arabic grammar (nahw)",
+            "title": "قُلْ — \"Say!\" (Commands)",
+            "explanation": "قُلْ is a command form of the verb قَالَ (to say). In the Quran, Allah commands the Prophet (ﷺ) to \"Say!\" — this form appears 332 times. Commands in Arabic are formed from the present-tense verb.",
+            "sourceNote": "Standard Arabic grammar (sarf)",
             "examples": [
               {
-                "arabic": "فِي ٱلْأَرْضِ",
-                "english": "in the earth",
-                "transliteration": "fil-ard"
+                "arabic": "قَالَ → قُلْ",
+                "english": "he said → Say!",
+                "transliteration": "qaala → qul"
               },
               {
-                "arabic": "مِن ٱللَّهِ",
-                "english": "from Allah",
-                "transliteration": "min Allahi"
-              },
-              {
-                "arabic": "عَلَى ٱلنَّاسِ",
-                "english": "upon the people",
-                "transliteration": "alan-naas"
+                "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+                "english": "Say: He is Allah, the One",
+                "transliteration": "qul huwa Allahu ahad"
               }
             ]
           },
-          "rootFamilies": [],
+          "rootFamilies": [
+            "ق و ل",
+            "و ح د",
+            "ص م د",
+            "و ل د",
+            "ك و ن"
+          ],
           "vocabulary": [
             {
-              "arabic": "فِي",
-              "translation": "in",
-              "transliteration": "fee",
-              "quranFrequency": 0
+              "arabic": "قُلْ",
+              "translation": "Say!",
+              "transliteration": "qul",
+              "rootLetters": "ق و ل",
+              "quranFrequency": 1618,
+              "frequencyRef": "qwl:qAla",
+              "exampleAyah": {
+                "surahId": 112,
+                "ayahId": 1
+              }
             },
             {
-              "arabic": "عَلَىٰ",
-              "translation": "upon/on",
-              "transliteration": "alaa",
-              "quranFrequency": 0
+              "arabic": "هُوَ",
+              "translation": "He is",
+              "transliteration": "huwa",
+              "quranFrequency": 0,
+              "exampleAyah": {
+                "surahId": 112,
+                "ayahId": 1
+              }
             },
             {
-              "arabic": "إِلَىٰ",
-              "translation": "to/towards",
-              "transliteration": "ilaa",
-              "quranFrequency": 0
+              "arabic": "أَحَدٌ",
+              "translation": "One",
+              "transliteration": "ahad",
+              "rootLetters": "و ح د",
+              "quranFrequency": 84,
+              "frequencyRef": "wHd:>aHad",
+              "exampleAyah": {
+                "surahId": 112,
+                "ayahId": 1
+              }
             },
             {
-              "arabic": "مِن",
-              "translation": "from",
-              "transliteration": "min",
-              "quranFrequency": 0
+              "arabic": "ٱلصَّمَدُ",
+              "translation": "the Eternal Refuge",
+              "transliteration": "as-Samad",
+              "rootLetters": "ص م د",
+              "quranFrequency": 1,
+              "frequencyRef": "Smd:Samad",
+              "exampleAyah": {
+                "surahId": 112,
+                "ayahId": 2
+              }
             },
             {
-              "arabic": "عَن",
-              "translation": "about/from",
-              "transliteration": "an",
-              "quranFrequency": 0
+              "arabic": "لَمْ يَلِدْ",
+              "translation": "He does not beget",
+              "transliteration": "lam yalid",
+              "rootLetters": "و ل د",
+              "quranFrequency": 0,
+              "exampleAyah": {
+                "surahId": 112,
+                "ayahId": 3
+              }
             },
             {
-              "arabic": "بِ",
-              "translation": "with/by",
-              "transliteration": "bi",
-              "quranFrequency": 0
+              "arabic": "لَمْ يُولَدْ",
+              "translation": "nor was He begotten",
+              "transliteration": "lam yoolad",
+              "rootLetters": "و ل د",
+              "quranFrequency": 0,
+              "exampleAyah": {
+                "surahId": 112,
+                "ayahId": 3
+              }
             },
             {
-              "arabic": "لِ",
-              "translation": "for/to",
-              "transliteration": "li",
-              "quranFrequency": 0
+              "arabic": "لَمْ يَكُن",
+              "translation": "there is not",
+              "transliteration": "lam yakun",
+              "rootLetters": "ك و ن",
+              "quranFrequency": 0,
+              "exampleAyah": {
+                "surahId": 112,
+                "ayahId": 4
+              }
             },
             {
-              "arabic": "وَ",
-              "translation": "and",
-              "transliteration": "wa",
-              "quranFrequency": 0
+              "arabic": "كُفُوًا",
+              "translation": "equivalent",
+              "transliteration": "kufuwan",
+              "rootLetters": "ك ف أ",
+              "quranFrequency": 1,
+              "frequencyRef": "kf>:kufuw",
+              "exampleAyah": {
+                "surahId": 112,
+                "ayahId": 4
+              }
             }
           ],
           "anchorAyahs": [
             {
-              "surahId": 2,
+              "surahId": 112,
+              "ayahId": 1
+            },
+            {
+              "surahId": 112,
+              "ayahId": 2
+            },
+            {
+              "surahId": 112,
               "ayahId": 3
             },
             {
-              "surahId": 2,
+              "surahId": 112,
               "ayahId": 4
-            },
-            {
-              "surahId": 3,
-              "ayahId": 26
             }
           ],
           "steps": [
             {
               "id": "cs1_u5_s1",
-              "name": "Location Words",
+              "name": "Say: He is Allah, One",
               "order": 0,
               "vocabIndices": [
                 0,
@@ -825,60 +893,52 @@
               ],
               "anchorAyahs": [
                 {
-                  "surahId": 2,
-                  "ayahId": 3
+                  "surahId": 112,
+                  "ayahId": 1
                 }
               ]
             },
             {
               "id": "cs1_u5_s2",
-              "name": "Source & Separation",
+              "name": "The Eternal Refuge",
               "order": 1,
               "vocabIndices": [
-                3,
-                4
+                3
               ],
               "anchorAyahs": [
                 {
-                  "surahId": 2,
-                  "ayahId": 4
+                  "surahId": 112,
+                  "ayahId": 2
                 }
               ]
             },
             {
               "id": "cs1_u5_s3",
-              "name": "Attached Particles",
+              "name": "Neither Begets Nor Begotten",
               "order": 2,
               "vocabIndices": [
-                5,
-                6
+                4,
+                5
               ],
               "anchorAyahs": [
                 {
-                  "surahId": 3,
-                  "ayahId": 26
+                  "surahId": 112,
+                  "ayahId": 3
                 }
               ]
             },
             {
               "id": "cs1_u5_s4",
-              "name": "The Connector",
+              "name": "None Comparable",
               "order": 3,
               "vocabIndices": [
+                6,
                 7
               ],
               "anchorAyahs": [
                 {
-                  "surahId": 2,
-                  "ayahId": 3
-                },
-                {
-                  "surahId": 2,
+                  "surahId": 112,
                   "ayahId": 4
-                },
-                {
-                  "surahId": 3,
-                  "ayahId": 26
                 }
               ]
             }
@@ -1087,14 +1147,178 @@
         },
         {
           "id": "cs1_u7",
+          "name": "Common Particles",
+          "concept": "Prepositions & conjunctions",
+          "description": "Learn the small words that connect everything together",
+          "order": 7,
+          "grammarTip": {
+            "title": "Particles (حُرُوف)",
+            "explanation": "Arabic particles are small words that show relationships between other words. They don't change form and are among the most common words in the Quran. Knowing just 8 particles lets you recognise a huge portion of the Quran!",
+            "sourceNote": "Standard Arabic grammar (nahw)",
+            "examples": [
+              {
+                "arabic": "فِي ٱلْأَرْضِ",
+                "english": "in the earth",
+                "transliteration": "fil-ard"
+              },
+              {
+                "arabic": "مِن ٱللَّهِ",
+                "english": "from Allah",
+                "transliteration": "min Allahi"
+              },
+              {
+                "arabic": "عَلَى ٱلنَّاسِ",
+                "english": "upon the people",
+                "transliteration": "alan-naas"
+              }
+            ]
+          },
+          "rootFamilies": [],
+          "vocabulary": [
+            {
+              "arabic": "فِي",
+              "translation": "in",
+              "transliteration": "fee",
+              "quranFrequency": 0
+            },
+            {
+              "arabic": "عَلَىٰ",
+              "translation": "upon/on",
+              "transliteration": "alaa",
+              "quranFrequency": 0
+            },
+            {
+              "arabic": "إِلَىٰ",
+              "translation": "to/towards",
+              "transliteration": "ilaa",
+              "quranFrequency": 0
+            },
+            {
+              "arabic": "مِن",
+              "translation": "from",
+              "transliteration": "min",
+              "quranFrequency": 0
+            },
+            {
+              "arabic": "عَن",
+              "translation": "about/from",
+              "transliteration": "an",
+              "quranFrequency": 0
+            },
+            {
+              "arabic": "بِ",
+              "translation": "with/by",
+              "transliteration": "bi",
+              "quranFrequency": 0
+            },
+            {
+              "arabic": "لِ",
+              "translation": "for/to",
+              "transliteration": "li",
+              "quranFrequency": 0
+            },
+            {
+              "arabic": "وَ",
+              "translation": "and",
+              "transliteration": "wa",
+              "quranFrequency": 0
+            }
+          ],
+          "anchorAyahs": [
+            {
+              "surahId": 2,
+              "ayahId": 3
+            },
+            {
+              "surahId": 2,
+              "ayahId": 4
+            },
+            {
+              "surahId": 3,
+              "ayahId": 26
+            }
+          ],
+          "steps": [
+            {
+              "id": "cs1_u7_s1",
+              "name": "Location Words",
+              "order": 0,
+              "vocabIndices": [
+                0,
+                1,
+                2
+              ],
+              "anchorAyahs": [
+                {
+                  "surahId": 2,
+                  "ayahId": 3
+                }
+              ]
+            },
+            {
+              "id": "cs1_u7_s2",
+              "name": "Source & Separation",
+              "order": 1,
+              "vocabIndices": [
+                3,
+                4
+              ],
+              "anchorAyahs": [
+                {
+                  "surahId": 2,
+                  "ayahId": 4
+                }
+              ]
+            },
+            {
+              "id": "cs1_u7_s3",
+              "name": "Attached Particles",
+              "order": 2,
+              "vocabIndices": [
+                5,
+                6
+              ],
+              "anchorAyahs": [
+                {
+                  "surahId": 3,
+                  "ayahId": 26
+                }
+              ]
+            },
+            {
+              "id": "cs1_u7_s4",
+              "name": "The Connector",
+              "order": 3,
+              "vocabIndices": [
+                7
+              ],
+              "anchorAyahs": [
+                {
+                  "surahId": 2,
+                  "ayahId": 3
+                },
+                {
+                  "surahId": 2,
+                  "ayahId": 4
+                },
+                {
+                  "surahId": 3,
+                  "ayahId": 26
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cs1_u8",
           "name": "Salah — What You Say",
           "concept": "Prayer vocabulary",
           "description": "Understand the words you say five times a day in prayer",
-          "order": 7,
+          "order": 8,
           "grammarTip": {
             "title": "Understanding Your Salah",
-            "explanation": "Every phrase in your prayer has a meaning. When you say \"سُبْحَانَ رَبِّيَ ٱلْعَظِيمِ\" in ruku, you're saying \"Glory be to my Lord, the Most Great.\" Understanding these words transforms your prayer.",
-            "sourceNote": "Standard Islamic prayer texts",
+            "explanation": "Every phrase in your prayer has a meaning. When you say \"سُبْحَانَ رَبِّيَ ٱلْعَظِيمِ\" in ruku, you're saying \"Glory be to my Lord, the Most Great.\" The Tashahud — \"التَّحِيَّاتُ لِلَّهِ\" — means \"All greetings are for Allah.\" Understanding these words transforms your prayer.",
+            "sourceNote": "Standard Islamic prayer texts. Tashahud: Sahih al-Bukhari 831 (sunnah.com/bukhari:831)",
             "examples": [
               {
                 "arabic": "سُبْحَانَ رَبِّيَ ٱلْعَظِيمِ",
@@ -1102,16 +1326,17 @@
                 "transliteration": "subhaana rabbiyal-Adheem"
               },
               {
-                "arabic": "سُبْحَانَ رَبِّيَ ٱلْأَعْلَى",
-                "english": "Glory be to my Lord, the Most High",
-                "transliteration": "subhaana rabbiyal-Alaa"
+                "arabic": "التَّحِيَّاتُ لِلَّهِ",
+                "english": "All greetings/salutations are for Allah",
+                "transliteration": "at-tahiyyaatu lillaah"
               }
             ]
           },
           "rootFamilies": [
             "ك ب ر",
             "س م ع",
-            "س ل م"
+            "س ل م",
+            "ع ب د"
           ],
           "vocabulary": [
             {
@@ -1168,12 +1393,63 @@
               "transliteration": "wa rahmatullaah",
               "rootLetters": "ر ح م",
               "quranFrequency": 0
+            },
+            {
+              "arabic": "التَّحِيَّاتُ",
+              "translation": "all greetings/salutations",
+              "transliteration": "at-tahiyyaatu",
+              "rootLetters": "ح ي ي",
+              "quranFrequency": 0
+            },
+            {
+              "arabic": "الصَّلَوَاتُ",
+              "translation": "the prayers",
+              "transliteration": "as-salawaatu",
+              "rootLetters": "ص ل و",
+              "quranFrequency": 0
+            },
+            {
+              "arabic": "الطَّيِّبَاتُ",
+              "translation": "the good things",
+              "transliteration": "at-tayyibaatu",
+              "rootLetters": "ط ي ب",
+              "quranFrequency": 0
+            },
+            {
+              "arabic": "أَشْهَدُ",
+              "translation": "I bear witness",
+              "transliteration": "ashhadu",
+              "rootLetters": "ش هـ د",
+              "quranFrequency": 0
+            },
+            {
+              "arabic": "عَبْدُهُ",
+              "translation": "His servant",
+              "transliteration": "abduhu",
+              "rootLetters": "ع ب د",
+              "quranFrequency": 0
+            },
+            {
+              "arabic": "رَسُولُهُ",
+              "translation": "His messenger",
+              "transliteration": "rasooluhu",
+              "rootLetters": "ر س ل",
+              "quranFrequency": 0
             }
           ],
-          "anchorAyahs": [],
+          "anchorAyahs": [
+            {
+              "surahId": 2,
+              "ayahId": 43
+            },
+            {
+              "surahId": 29,
+              "ayahId": 45
+            }
+          ],
           "steps": [
             {
-              "id": "cs1_u7_s1",
+              "id": "cs1_u8_s1",
               "name": "The Takbir",
               "order": 0,
               "vocabIndices": [
@@ -1182,7 +1458,7 @@
               ]
             },
             {
-              "id": "cs1_u7_s2",
+              "id": "cs1_u8_s2",
               "name": "In Ruku & Sujud",
               "order": 1,
               "vocabIndices": [
@@ -1192,7 +1468,7 @@
               ]
             },
             {
-              "id": "cs1_u7_s3",
+              "id": "cs1_u8_s3",
               "name": "Standing After Ruku",
               "order": 2,
               "vocabIndices": [
@@ -1200,216 +1476,32 @@
               ]
             },
             {
-              "id": "cs1_u7_s4",
-              "name": "Ending the Prayer",
-              "order": 3,
-              "vocabIndices": [
-                6,
-                7
-              ]
-            }
-          ]
-        },
-        {
-          "id": "cs1_u8",
-          "name": "The Oneness of God",
-          "concept": "Surah Al-Ikhlas — قل هو الله أحد",
-          "description": "Learn every word of Surah Al-Ikhlas and its deep meaning",
-          "order": 8,
-          "grammarTip": {
-            "title": "قُلْ — \"Say!\" (Commands)",
-            "explanation": "قُلْ is a command form of the verb قَالَ (to say). In the Quran, Allah commands the Prophet (ﷺ) to \"Say!\" — this form appears 332 times. Commands in Arabic are formed from the present-tense verb.",
-            "sourceNote": "Standard Arabic grammar (sarf)",
-            "examples": [
-              {
-                "arabic": "قَالَ → قُلْ",
-                "english": "he said → Say!",
-                "transliteration": "qaala → qul"
-              },
-              {
-                "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
-                "english": "Say: He is Allah, the One",
-                "transliteration": "qul huwa Allahu ahad"
-              }
-            ]
-          },
-          "rootFamilies": [
-            "ق و ل",
-            "و ح د",
-            "ص م د",
-            "و ل د",
-            "ك و ن"
-          ],
-          "vocabulary": [
-            {
-              "arabic": "قُلْ",
-              "translation": "Say!",
-              "transliteration": "qul",
-              "rootLetters": "ق و ل",
-              "quranFrequency": 1618,
-              "frequencyRef": "qwl:qAla",
-              "exampleAyah": {
-                "surahId": 112,
-                "ayahId": 1
-              }
-            },
-            {
-              "arabic": "هُوَ",
-              "translation": "He is",
-              "transliteration": "huwa",
-              "quranFrequency": 0,
-              "exampleAyah": {
-                "surahId": 112,
-                "ayahId": 1
-              }
-            },
-            {
-              "arabic": "أَحَدٌ",
-              "translation": "One",
-              "transliteration": "ahad",
-              "rootLetters": "و ح د",
-              "quranFrequency": 84,
-              "frequencyRef": "wHd:>aHad",
-              "exampleAyah": {
-                "surahId": 112,
-                "ayahId": 1
-              }
-            },
-            {
-              "arabic": "ٱلصَّمَدُ",
-              "translation": "the Eternal Refuge",
-              "transliteration": "as-Samad",
-              "rootLetters": "ص م د",
-              "quranFrequency": 1,
-              "frequencyRef": "Smd:Samad",
-              "exampleAyah": {
-                "surahId": 112,
-                "ayahId": 2
-              }
-            },
-            {
-              "arabic": "لَمْ يَلِدْ",
-              "translation": "He does not beget",
-              "transliteration": "lam yalid",
-              "rootLetters": "و ل د",
-              "quranFrequency": 0,
-              "exampleAyah": {
-                "surahId": 112,
-                "ayahId": 3
-              }
-            },
-            {
-              "arabic": "لَمْ يُولَدْ",
-              "translation": "nor was He begotten",
-              "transliteration": "lam yoolad",
-              "rootLetters": "و ل د",
-              "quranFrequency": 0,
-              "exampleAyah": {
-                "surahId": 112,
-                "ayahId": 3
-              }
-            },
-            {
-              "arabic": "لَمْ يَكُن",
-              "translation": "there is not",
-              "transliteration": "lam yakun",
-              "rootLetters": "ك و ن",
-              "quranFrequency": 0,
-              "exampleAyah": {
-                "surahId": 112,
-                "ayahId": 4
-              }
-            },
-            {
-              "arabic": "كُفُوًا",
-              "translation": "equivalent",
-              "transliteration": "kufuwan",
-              "rootLetters": "ك ف أ",
-              "quranFrequency": 1,
-              "frequencyRef": "kf>:kufuw",
-              "exampleAyah": {
-                "surahId": 112,
-                "ayahId": 4
-              }
-            }
-          ],
-          "anchorAyahs": [
-            {
-              "surahId": 112,
-              "ayahId": 1
-            },
-            {
-              "surahId": 112,
-              "ayahId": 2
-            },
-            {
-              "surahId": 112,
-              "ayahId": 3
-            },
-            {
-              "surahId": 112,
-              "ayahId": 4
-            }
-          ],
-          "steps": [
-            {
-              "id": "cs1_u8_s1",
-              "name": "Say: He is Allah, One",
-              "order": 0,
-              "vocabIndices": [
-                0,
-                1,
-                2
-              ],
-              "anchorAyahs": [
-                {
-                  "surahId": 112,
-                  "ayahId": 1
-                }
-              ]
-            },
-            {
-              "id": "cs1_u8_s2",
-              "name": "The Eternal Refuge",
-              "order": 1,
-              "vocabIndices": [
-                3
-              ],
-              "anchorAyahs": [
-                {
-                  "surahId": 112,
-                  "ayahId": 2
-                }
-              ]
-            },
-            {
-              "id": "cs1_u8_s3",
-              "name": "Neither Begets Nor Begotten",
-              "order": 2,
-              "vocabIndices": [
-                4,
-                5
-              ],
-              "anchorAyahs": [
-                {
-                  "surahId": 112,
-                  "ayahId": 3
-                }
-              ]
-            },
-            {
               "id": "cs1_u8_s4",
-              "name": "None Comparable",
+              "name": "The Tashahud",
               "order": 3,
+              "vocabIndices": [
+                8,
+                9,
+                10
+              ]
+            },
+            {
+              "id": "cs1_u8_s5",
+              "name": "Bearing Witness",
+              "order": 4,
+              "vocabIndices": [
+                11,
+                12,
+                13
+              ]
+            },
+            {
+              "id": "cs1_u8_s6",
+              "name": "Ending the Prayer",
+              "order": 5,
               "vocabIndices": [
                 6,
                 7
-              ],
-              "anchorAyahs": [
-                {
-                  "surahId": 112,
-                  "ayahId": 4
-                }
               ]
             }
           ]
@@ -1893,10 +1985,437 @@
         },
         {
           "id": "cs2_u3",
+          "name": "Protection from Evil",
+          "concept": "Surah An-Nas — refuge from the whisperer",
+          "description": "Learn every word of Surah An-Nas and the concept of seeking protection from evil whispers",
+          "order": 3,
+          "grammarTip": {
+            "title": "The Three-fold Attribution",
+            "explanation": "Surah An-Nas begins with three attributes of Allah — رَبِّ ٱلنَّاسِ (Lord of mankind), مَلِكِ ٱلنَّاسِ (King of mankind), إِلَـٰهِ ٱلنَّاسِ (God of mankind). The progression from Rabb (Nurturer) to Malik (Sovereign) to Ilaah (the One worshipped) represents ascending levels of authority.",
+            "sourceNote": "Classical tafsir convention (Ibn Kathir, public domain)",
+            "examples": [
+              {
+                "arabic": "رَبِّ ٱلنَّاسِ",
+                "english": "Lord of mankind",
+                "transliteration": "Rabbi an-naas"
+              },
+              {
+                "arabic": "مَلِكِ ٱلنَّاسِ",
+                "english": "King of mankind",
+                "transliteration": "Maliki an-naas"
+              },
+              {
+                "arabic": "إِلَـٰهِ ٱلنَّاسِ",
+                "english": "God of mankind",
+                "transliteration": "Ilaahi an-naas"
+              }
+            ]
+          },
+          "rootFamilies": [
+            "ن ا س",
+            "م ل ك",
+            "ا ل ه",
+            "و س و س",
+            "خ ن س",
+            "ص د ر",
+            "ج ن ن"
+          ],
+          "vocabulary": [
+            {
+              "arabic": "ٱلنَّاسِ",
+              "translation": "mankind",
+              "transliteration": "an-naas",
+              "rootLetters": "ن ا س",
+              "quranFrequency": 241,
+              "frequencyRef": "nws:nAs",
+              "exampleAyah": {
+                "surahId": 114,
+                "ayahId": 1
+              }
+            },
+            {
+              "arabic": "مَلِكِ",
+              "translation": "King of",
+              "transliteration": "Maliki",
+              "rootLetters": "م ل ك",
+              "quranFrequency": 15,
+              "frequencyRef": "mlk:malik",
+              "exampleAyah": {
+                "surahId": 114,
+                "ayahId": 2
+              }
+            },
+            {
+              "arabic": "إِلَـٰهِ",
+              "translation": "God of",
+              "transliteration": "ilaahi",
+              "rootLetters": "ا ل ه",
+              "quranFrequency": 147,
+              "frequencyRef": "Alh:<ilAh",
+              "exampleAyah": {
+                "surahId": 114,
+                "ayahId": 3
+              }
+            },
+            {
+              "arabic": "ٱلْوَسْوَاسِ",
+              "translation": "the whisperer",
+              "transliteration": "al-waswaas",
+              "rootLetters": "و س و س",
+              "quranFrequency": 1,
+              "frequencyRef": "wsws:waswAs",
+              "exampleAyah": {
+                "surahId": 114,
+                "ayahId": 4
+              }
+            },
+            {
+              "arabic": "ٱلْخَنَّاسِ",
+              "translation": "the retreating one",
+              "transliteration": "al-khannaas",
+              "rootLetters": "خ ن س",
+              "quranFrequency": 1,
+              "frequencyRef": "xns:xan~As",
+              "exampleAyah": {
+                "surahId": 114,
+                "ayahId": 4
+              }
+            },
+            {
+              "arabic": "يُوَسْوِسُ",
+              "translation": "he whispers",
+              "transliteration": "yuwaswisu",
+              "rootLetters": "و س و س",
+              "quranFrequency": 0,
+              "exampleAyah": {
+                "surahId": 114,
+                "ayahId": 5
+              }
+            },
+            {
+              "arabic": "صُدُورِ",
+              "translation": "chests/hearts of",
+              "transliteration": "sudoor",
+              "rootLetters": "ص د ر",
+              "quranFrequency": 44,
+              "frequencyRef": "Sdr:Sadr",
+              "exampleAyah": {
+                "surahId": 114,
+                "ayahId": 5
+              }
+            },
+            {
+              "arabic": "ٱلْجِنَّةِ",
+              "translation": "the jinn",
+              "transliteration": "al-jinnah",
+              "rootLetters": "ج ن ن",
+              "quranFrequency": 10,
+              "frequencyRef": "jnn:jinnat",
+              "exampleAyah": {
+                "surahId": 114,
+                "ayahId": 6
+              }
+            }
+          ],
+          "anchorAyahs": [
+            {
+              "surahId": 114,
+              "ayahId": 1
+            },
+            {
+              "surahId": 114,
+              "ayahId": 2
+            },
+            {
+              "surahId": 114,
+              "ayahId": 3
+            },
+            {
+              "surahId": 114,
+              "ayahId": 4
+            },
+            {
+              "surahId": 114,
+              "ayahId": 5
+            },
+            {
+              "surahId": 114,
+              "ayahId": 6
+            }
+          ],
+          "steps": [
+            {
+              "id": "cs2_u3_s1",
+              "name": "Lord, King, God of Mankind",
+              "order": 0,
+              "vocabIndices": [
+                0,
+                1,
+                2
+              ],
+              "anchorAyahs": [
+                {
+                  "surahId": 114,
+                  "ayahId": 1
+                },
+                {
+                  "surahId": 114,
+                  "ayahId": 2
+                },
+                {
+                  "surahId": 114,
+                  "ayahId": 3
+                }
+              ]
+            },
+            {
+              "id": "cs2_u3_s2",
+              "name": "The Whisperer",
+              "order": 1,
+              "vocabIndices": [
+                3,
+                4
+              ],
+              "anchorAyahs": [
+                {
+                  "surahId": 114,
+                  "ayahId": 4
+                }
+              ]
+            },
+            {
+              "id": "cs2_u3_s3",
+              "name": "Whispering in Hearts",
+              "order": 2,
+              "vocabIndices": [
+                5,
+                6
+              ],
+              "anchorAyahs": [
+                {
+                  "surahId": 114,
+                  "ayahId": 5
+                }
+              ]
+            },
+            {
+              "id": "cs2_u3_s4",
+              "name": "From Jinn and Mankind",
+              "order": 3,
+              "vocabIndices": [
+                7
+              ],
+              "anchorAyahs": [
+                {
+                  "surahId": 114,
+                  "ayahId": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cs2_u4",
+          "name": "Ayat al-Kursi",
+          "concept": "The Verse of the Throne — 2:255",
+          "description": "Learn the key vocabulary of the greatest ayah in the Quran",
+          "order": 4,
+          "grammarTip": {
+            "title": "لَا إِلَـٰهَ إِلَّا هُوَ — Negation for Emphasis",
+            "explanation": "Ayat al-Kursi opens with لَا إِلَـٰهَ إِلَّا هُوَ — \"There is no deity except Him.\" This uses لَا to negate + إِلَّا to except, creating the strongest possible affirmation of monotheism. This is a nominal sentence (جُمْلَة اسْمِيَّة) — it has no verb, expressing a permanent, unchanging truth.",
+            "sourceNote": "Sahih Muslim 810: \"The greatest ayah in the Book of Allah is Ayat al-Kursi.\" Standard Arabic grammar (nahw)",
+            "examples": [
+              {
+                "arabic": "لَا إِلَـٰهَ إِلَّا هُوَ",
+                "english": "There is no deity except Him",
+                "transliteration": "laa ilaaha illaa huwa"
+              },
+              {
+                "arabic": "لَا إِلَـٰهَ إِلَّا ٱللَّهُ",
+                "english": "There is no deity except Allah",
+                "transliteration": "laa ilaaha illAllaah"
+              }
+            ]
+          },
+          "rootFamilies": [
+            "ا ل ه",
+            "ح ي ي",
+            "ق و م",
+            "ك ر س",
+            "س م و",
+            "ا ر ض",
+            "ع ل و"
+          ],
+          "vocabulary": [
+            {
+              "arabic": "لَا إِلَـٰهَ إِلَّا هُوَ",
+              "translation": "There is no deity except Him",
+              "transliteration": "laa ilaaha illaa huwa",
+              "rootLetters": "ا ل ه",
+              "quranFrequency": 0,
+              "exampleAyah": {
+                "surahId": 2,
+                "ayahId": 255
+              }
+            },
+            {
+              "arabic": "الْحَيُّ",
+              "translation": "the Ever-Living",
+              "transliteration": "al-Hayy",
+              "rootLetters": "ح ي ي",
+              "quranFrequency": 5,
+              "frequencyRef": "Hyy:Hay~",
+              "exampleAyah": {
+                "surahId": 2,
+                "ayahId": 255
+              }
+            },
+            {
+              "arabic": "الْقَيُّومُ",
+              "translation": "the Self-Subsisting",
+              "transliteration": "al-Qayyoom",
+              "rootLetters": "ق و م",
+              "quranFrequency": 3,
+              "frequencyRef": "qwm:qay~uwm",
+              "exampleAyah": {
+                "surahId": 2,
+                "ayahId": 255
+              }
+            },
+            {
+              "arabic": "كُرْسِيُّهُ",
+              "translation": "His Throne",
+              "transliteration": "kursiyyuhu",
+              "rootLetters": "ك ر س",
+              "quranFrequency": 2,
+              "frequencyRef": "krs:kursiy~",
+              "exampleAyah": {
+                "surahId": 2,
+                "ayahId": 255
+              }
+            },
+            {
+              "arabic": "السَّمَاوَاتِ",
+              "translation": "the heavens",
+              "transliteration": "as-samawaati",
+              "rootLetters": "س م و",
+              "quranFrequency": 310,
+              "frequencyRef": "smw:samA>",
+              "exampleAyah": {
+                "surahId": 2,
+                "ayahId": 255
+              }
+            },
+            {
+              "arabic": "الْأَرْضَ",
+              "translation": "the earth",
+              "transliteration": "al-arda",
+              "rootLetters": "ا ر ض",
+              "quranFrequency": 461,
+              "frequencyRef": "ArD:>arD",
+              "exampleAyah": {
+                "surahId": 2,
+                "ayahId": 255
+              }
+            },
+            {
+              "arabic": "الْعَلِيُّ",
+              "translation": "the Most High",
+              "transliteration": "al-Aliyy",
+              "rootLetters": "ع ل و",
+              "quranFrequency": 11,
+              "frequencyRef": "Elw:Ealiy~",
+              "exampleAyah": {
+                "surahId": 2,
+                "ayahId": 255
+              }
+            },
+            {
+              "arabic": "الْعَظِيمُ",
+              "translation": "the Most Great",
+              "transliteration": "al-Adheem",
+              "quranFrequency": 0,
+              "exampleAyah": {
+                "surahId": 2,
+                "ayahId": 255
+              }
+            }
+          ],
+          "anchorAyahs": [
+            {
+              "surahId": 2,
+              "ayahId": 255
+            }
+          ],
+          "steps": [
+            {
+              "id": "cs2_u4_s1",
+              "name": "No God but He",
+              "order": 0,
+              "vocabIndices": [
+                0
+              ],
+              "anchorAyahs": [
+                {
+                  "surahId": 2,
+                  "ayahId": 255
+                }
+              ]
+            },
+            {
+              "id": "cs2_u4_s2",
+              "name": "The Living, The Sustainer",
+              "order": 1,
+              "vocabIndices": [
+                1,
+                2
+              ],
+              "anchorAyahs": [
+                {
+                  "surahId": 2,
+                  "ayahId": 255
+                }
+              ]
+            },
+            {
+              "id": "cs2_u4_s3",
+              "name": "His Kursi Extends",
+              "order": 2,
+              "vocabIndices": [
+                3,
+                4,
+                5
+              ],
+              "anchorAyahs": [
+                {
+                  "surahId": 2,
+                  "ayahId": 255
+                }
+              ]
+            },
+            {
+              "id": "cs2_u4_s4",
+              "name": "The Most High, Most Great",
+              "order": 3,
+              "vocabIndices": [
+                6,
+                7
+              ],
+              "anchorAyahs": [
+                {
+                  "surahId": 2,
+                  "ayahId": 255
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cs2_u5",
           "name": "Good & Evil",
           "concept": "Opposites — خَيْر vs شَرّ",
           "description": "Learn how the Quran talks about good and evil deeds, even the smallest",
-          "order": 3,
+          "order": 5,
           "grammarTip": {
             "title": "Opposites: خَيْر (good) vs شَرّ (evil)",
             "explanation": "The Quran often pairs opposites for emphasis. فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ — \"Whoever does an atom's weight of good will see it.\" The same structure is repeated with شَرّ (evil). This parallelism is a key Quranic literary device.",
@@ -2019,7 +2538,7 @@
           ],
           "steps": [
             {
-              "id": "cs2_u3_s1",
+              "id": "cs2_u5_s1",
               "name": "Good & Evil",
               "order": 0,
               "vocabIndices": [
@@ -2038,7 +2557,7 @@
               ]
             },
             {
-              "id": "cs2_u3_s2",
+              "id": "cs2_u5_s2",
               "name": "An Atom's Weight",
               "order": 1,
               "vocabIndices": [
@@ -2055,7 +2574,7 @@
               ]
             },
             {
-              "id": "cs2_u3_s3",
+              "id": "cs2_u5_s3",
               "name": "He Will See It",
               "order": 2,
               "vocabIndices": [
@@ -2076,11 +2595,11 @@
           ]
         },
         {
-          "id": "cs2_u4",
+          "id": "cs2_u6",
           "name": "Time & Loss",
           "concept": "Surah Al-Asr — emphatic particles",
           "description": "Learn how Arabic emphasises with إِنَّ and the message of time",
-          "order": 4,
+          "order": 6,
           "grammarTip": {
             "title": "إِنَّ — \"Indeed\" (Emphasis)",
             "explanation": "إِنَّ is an emphatic particle meaning \"indeed\" or \"surely\". It emphasises whatever comes after it. In Surah Al-Asr: إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ — \"Indeed, mankind is in loss.\" The لَ before فِى doubles the emphasis.",
@@ -2185,7 +2704,7 @@
           ],
           "steps": [
             {
-              "id": "cs2_u4_s1",
+              "id": "cs2_u6_s1",
               "name": "By Time",
               "order": 0,
               "vocabIndices": [
@@ -2199,7 +2718,7 @@
               ]
             },
             {
-              "id": "cs2_u4_s2",
+              "id": "cs2_u6_s2",
               "name": "Mankind is in Loss",
               "order": 1,
               "vocabIndices": [
@@ -2216,7 +2735,7 @@
               ]
             },
             {
-              "id": "cs2_u4_s3",
+              "id": "cs2_u6_s3",
               "name": "Except",
               "order": 2,
               "vocabIndices": [
@@ -2232,11 +2751,11 @@
           ]
         },
         {
-          "id": "cs2_u5",
+          "id": "cs2_u7",
           "name": "Belief & Action",
           "concept": "Root ع-م-ل: work, deed, action",
           "description": "Learn words about belief, righteous action, truth, and patience",
-          "order": 5,
+          "order": 7,
           "grammarTip": {
             "title": "Root ع-م-ل: Work & Deeds",
             "explanation": "The root ع-م-ل gives us عَمَل (deed/work), عَمِلُوا (they did), and عَامِل (worker). In the Quran, faith (إِيمَان) is almost always paired with righteous deeds (عَمِلُوا ٱلصَّـٰلِحَـٰتِ) — belief without action isn't enough.",
@@ -2367,7 +2886,7 @@
           ],
           "steps": [
             {
-              "id": "cs2_u5_s1",
+              "id": "cs2_u7_s1",
               "name": "Those Who Believed",
               "order": 0,
               "vocabIndices": [
@@ -2383,7 +2902,7 @@
               ]
             },
             {
-              "id": "cs2_u5_s2",
+              "id": "cs2_u7_s2",
               "name": "Righteous Deeds",
               "order": 1,
               "vocabIndices": [
@@ -2398,7 +2917,7 @@
               ]
             },
             {
-              "id": "cs2_u5_s3",
+              "id": "cs2_u7_s3",
               "name": "Truth & Patience",
               "order": 2,
               "vocabIndices": [
@@ -2413,7 +2932,7 @@
               ]
             },
             {
-              "id": "cs2_u5_s4",
+              "id": "cs2_u7_s4",
               "name": "They Advised Each Other",
               "order": 3,
               "vocabIndices": [
@@ -2429,11 +2948,11 @@
           ]
         },
         {
-          "id": "cs2_u6",
+          "id": "cs2_u8",
           "name": "Creation & Nature",
           "concept": "Root خ-ل-ق: to create",
           "description": "Learn the first words ever revealed and vocabulary about creation",
-          "order": 6,
+          "order": 8,
           "grammarTip": {
             "title": "Root خ-ل-ق: To Create",
             "explanation": "The root خ-ل-ق gives us خَلَقَ (He created), خَلْق (creation), and خَالِق (Creator). The very first revealed ayah was اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ — \"Read in the name of your Lord who created.\"",
@@ -2568,7 +3087,7 @@
           ],
           "steps": [
             {
-              "id": "cs2_u6_s1",
+              "id": "cs2_u8_s1",
               "name": "Read! He Created",
               "order": 0,
               "vocabIndices": [
@@ -2583,7 +3102,7 @@
               ]
             },
             {
-              "id": "cs2_u6_s2",
+              "id": "cs2_u8_s2",
               "name": "From a Clot",
               "order": 1,
               "vocabIndices": [
@@ -2597,7 +3116,7 @@
               ]
             },
             {
-              "id": "cs2_u6_s3",
+              "id": "cs2_u8_s3",
               "name": "Taught by the Pen",
               "order": 2,
               "vocabIndices": [
@@ -2612,7 +3131,7 @@
               ]
             },
             {
-              "id": "cs2_u6_s4",
+              "id": "cs2_u8_s4",
               "name": "Earth, Sky & Water",
               "order": 3,
               "vocabIndices": [
@@ -2646,11 +3165,11 @@
           ]
         },
         {
-          "id": "cs2_u7",
+          "id": "cs2_u9",
           "name": "Negation",
           "concept": "Five words for \"no/not\"",
           "description": "Learn how Arabic says \"no\" in five different ways",
-          "order": 7,
+          "order": 9,
           "grammarTip": {
             "title": "Five Ways to Say \"Not\"",
             "explanation": "Arabic has 5 negation words, each for a different situation:\n• لَا — general \"no/not\"\n• مَا — negates past or present\n• لَمْ — \"did not\" (negates past)\n• لَنْ — \"will not\" (negates future)\n• لَيْسَ — \"is not\"",
@@ -2762,7 +3281,7 @@
           ],
           "steps": [
             {
-              "id": "cs2_u7_s1",
+              "id": "cs2_u9_s1",
               "name": "General Negation",
               "order": 0,
               "vocabIndices": [
@@ -2777,7 +3296,7 @@
               ]
             },
             {
-              "id": "cs2_u7_s2",
+              "id": "cs2_u9_s2",
               "name": "Past & Future Negation",
               "order": 1,
               "vocabIndices": [
@@ -2796,7 +3315,7 @@
               ]
             },
             {
-              "id": "cs2_u7_s3",
+              "id": "cs2_u9_s3",
               "name": "Is Not / Other Than",
               "order": 2,
               "vocabIndices": [
@@ -2811,7 +3330,7 @@
               ]
             },
             {
-              "id": "cs2_u7_s4",
+              "id": "cs2_u9_s4",
               "name": "Worship & Disavowal",
               "order": 3,
               "vocabIndices": [
@@ -2832,100 +3351,104 @@
           ]
         },
         {
-          "id": "cs2_u8",
+          "id": "cs2_u10",
           "name": "Short Surah Mastery",
-          "concept": "Review Al-Ikhlas, Al-Falaq, An-Nas & Al-Asr",
-          "description": "Master the vocabulary of all the short surahs you've learned",
-          "order": 8,
+          "concept": "Review Al-Ikhlas, Al-Falaq, An-Nas, Al-Asr & Ayat al-Kursi",
+          "description": "Review and master vocabulary from all the surahs and ayahs you've learned",
+          "order": 10,
           "rootFamilies": [
-            "ن ا س",
-            "و س و س",
-            "ج ن ن",
+            "ق و ل",
+            "و ح د",
+            "ع و ذ",
+            "ش ر ر",
+            "ح ي ي",
+            "ق و م",
+            "خ س ر",
             "د ي ن"
           ],
           "vocabulary": [
             {
-              "arabic": "ٱلنَّاسِ",
-              "translation": "mankind",
-              "transliteration": "an-naas",
-              "rootLetters": "ن ا س",
-              "quranFrequency": 241,
-              "frequencyRef": "nws:nAs",
+              "arabic": "قُلْ",
+              "translation": "Say!",
+              "transliteration": "qul",
+              "rootLetters": "ق و ل",
+              "quranFrequency": 1618,
+              "frequencyRef": "qwl:qAla",
               "exampleAyah": {
-                "surahId": 114,
+                "surahId": 112,
                 "ayahId": 1
               }
             },
             {
-              "arabic": "مَلِكِ",
-              "translation": "King of",
-              "transliteration": "Maliki",
-              "rootLetters": "م ل ك",
-              "quranFrequency": 15,
-              "frequencyRef": "mlk:malik",
+              "arabic": "أَحَدٌ",
+              "translation": "One",
+              "transliteration": "ahad",
+              "rootLetters": "و ح د",
+              "quranFrequency": 84,
+              "frequencyRef": "wHd:>aHad",
               "exampleAyah": {
-                "surahId": 114,
+                "surahId": 112,
+                "ayahId": 1
+              }
+            },
+            {
+              "arabic": "أَعُوذُ",
+              "translation": "I seek refuge",
+              "transliteration": "aoodhu",
+              "rootLetters": "ع و ذ",
+              "quranFrequency": 10,
+              "frequencyRef": "Ew*:EA*a",
+              "exampleAyah": {
+                "surahId": 113,
+                "ayahId": 1
+              }
+            },
+            {
+              "arabic": "شَرِّ",
+              "translation": "evil of",
+              "transliteration": "sharri",
+              "rootLetters": "ش ر ر",
+              "quranFrequency": 30,
+              "frequencyRef": "$rr:$arr",
+              "exampleAyah": {
+                "surahId": 113,
                 "ayahId": 2
               }
             },
             {
-              "arabic": "إِلَـٰهِ",
-              "translation": "God of",
-              "transliteration": "ilaahi",
-              "rootLetters": "ا ل ه",
-              "quranFrequency": 147,
-              "frequencyRef": "Alh:<ilAh",
+              "arabic": "الْحَيُّ",
+              "translation": "the Ever-Living",
+              "transliteration": "al-Hayy",
+              "rootLetters": "ح ي ي",
+              "quranFrequency": 5,
+              "frequencyRef": "Hyy:Hay~",
               "exampleAyah": {
-                "surahId": 114,
-                "ayahId": 3
+                "surahId": 2,
+                "ayahId": 255
               }
             },
             {
-              "arabic": "ٱلْوَسْوَاسِ",
-              "translation": "the whisperer",
-              "transliteration": "al-waswaas",
-              "rootLetters": "و س و س",
-              "quranFrequency": 1,
-              "frequencyRef": "wsws:waswAs",
+              "arabic": "الْقَيُّومُ",
+              "translation": "the Self-Subsisting",
+              "transliteration": "al-Qayyoom",
+              "rootLetters": "ق و م",
+              "quranFrequency": 3,
+              "frequencyRef": "qwm:qay~uwm",
               "exampleAyah": {
-                "surahId": 114,
-                "ayahId": 4
+                "surahId": 2,
+                "ayahId": 255
               }
             },
             {
-              "arabic": "ٱلْخَنَّاسِ",
-              "translation": "the retreating one",
-              "transliteration": "al-khannaas",
-              "rootLetters": "خ ن س",
-              "quranFrequency": 1,
-              "frequencyRef": "xns:xan~As",
+              "arabic": "خُسْرٍ",
+              "translation": "loss",
+              "transliteration": "khusr",
+              "rootLetters": "خ س ر",
+              "quranFrequency": 2,
+              "frequencyRef": "xsr:xusr",
               "exampleAyah": {
-                "surahId": 114,
-                "ayahId": 4
-              }
-            },
-            {
-              "arabic": "صُدُورِ",
-              "translation": "chests/hearts of",
-              "transliteration": "sudoor",
-              "rootLetters": "ص د ر",
-              "quranFrequency": 44,
-              "frequencyRef": "Sdr:Sadr",
-              "exampleAyah": {
-                "surahId": 114,
-                "ayahId": 5
-              }
-            },
-            {
-              "arabic": "ٱلْجِنَّةِ",
-              "translation": "the jinn",
-              "transliteration": "al-jinnah",
-              "rootLetters": "ج ن ن",
-              "quranFrequency": 10,
-              "frequencyRef": "jnn:jinnat",
-              "exampleAyah": {
-                "surahId": 114,
-                "ayahId": 6
+                "surahId": 103,
+                "ayahId": 2
               }
             },
             {
@@ -2943,109 +3466,97 @@
           ],
           "anchorAyahs": [
             {
-              "surahId": 114,
+              "surahId": 112,
+              "ayahId": 1
+            },
+            {
+              "surahId": 113,
               "ayahId": 1
             },
             {
               "surahId": 114,
+              "ayahId": 1
+            },
+            {
+              "surahId": 2,
+              "ayahId": 255
+            },
+            {
+              "surahId": 103,
+              "ayahId": 1
+            },
+            {
+              "surahId": 103,
               "ayahId": 2
             },
             {
-              "surahId": 114,
-              "ayahId": 3
-            },
-            {
-              "surahId": 114,
-              "ayahId": 4
-            },
-            {
-              "surahId": 114,
-              "ayahId": 5
-            },
-            {
-              "surahId": 114,
+              "surahId": 109,
               "ayahId": 6
-            },
-            {
-              "surahId": 103,
-              "ayahId": 1
-            },
-            {
-              "surahId": 103,
-              "ayahId": 2
-            },
-            {
-              "surahId": 103,
-              "ayahId": 3
             }
           ],
           "steps": [
             {
-              "id": "cs2_u8_s1",
-              "name": "Lord, King, God of Mankind",
+              "id": "cs2_u10_s1",
+              "name": "Al-Ikhlas Review",
               "order": 0,
               "vocabIndices": [
                 0,
-                1,
-                2
+                1
               ],
               "anchorAyahs": [
                 {
-                  "surahId": 114,
+                  "surahId": 112,
+                  "ayahId": 1
+                }
+              ]
+            },
+            {
+              "id": "cs2_u10_s2",
+              "name": "Protection Surahs Review",
+              "order": 1,
+              "vocabIndices": [
+                2,
+                3
+              ],
+              "anchorAyahs": [
+                {
+                  "surahId": 113,
                   "ayahId": 1
                 },
                 {
                   "surahId": 114,
-                  "ayahId": 2
-                },
-                {
-                  "surahId": 114,
-                  "ayahId": 3
+                  "ayahId": 1
                 }
               ]
             },
             {
-              "id": "cs2_u8_s2",
-              "name": "The Whisperer",
-              "order": 1,
-              "vocabIndices": [
-                3,
-                4
-              ],
-              "anchorAyahs": [
-                {
-                  "surahId": 114,
-                  "ayahId": 4
-                }
-              ]
-            },
-            {
-              "id": "cs2_u8_s3",
-              "name": "In the Hearts",
+              "id": "cs2_u10_s3",
+              "name": "Ayat al-Kursi Review",
               "order": 2,
               "vocabIndices": [
-                5,
-                6
+                4,
+                5
               ],
               "anchorAyahs": [
                 {
-                  "surahId": 114,
-                  "ayahId": 5
-                },
-                {
-                  "surahId": 114,
-                  "ayahId": 6
+                  "surahId": 2,
+                  "ayahId": 255
                 }
               ]
             },
             {
-              "id": "cs2_u8_s4",
-              "name": "Your Religion + Grand Review",
+              "id": "cs2_u10_s4",
+              "name": "Grand Review",
               "order": 3,
               "vocabIndices": [
+                6,
                 7
               ],
               "anchorAyahs": [
+                {
+                  "surahId": 103,
+                  "ayahId": 2
+                },
                 {
                   "surahId": 109,
                   "ayahId": 6
