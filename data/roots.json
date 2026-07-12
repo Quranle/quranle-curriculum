@@ -248,7 +248,7 @@
         {
           "arabic": "صِرَاط مُسْتَقِيم",
           "translation": "straight path",
-          "transliteration": "siraat al-mustaqeem"
+          "transliteration": "siraat mustaqeem"
         }
       ]
     },
@@ -477,7 +477,7 @@
       "words": [
         {
           "arabic": "يَكُنْ",
-          "translation": "there is",
+          "translation": "(he/it) is",
           "transliteration": "yakun"
         },
         {
@@ -606,7 +606,7 @@
       "words": [
         {
           "arabic": "وَقَبَ",
-          "translation": "when it spreads",
+          "translation": "it settles, spreads",
           "transliteration": "waqab"
         }
       ]
@@ -652,22 +652,10 @@
         }
       ]
     },
-    "ن ا س": {
-      "rootLetters": "ن ا س",
-      "coreMeaning": "people, mankind",
-      "sourceRef": "nws",
-      "words": [
-        {
-          "arabic": "نَاس",
-          "translation": "people/mankind",
-          "transliteration": "naas"
-        }
-      ]
-    },
     "و س و س": {
       "rootLetters": "و س و س",
       "coreMeaning": "whispering",
-      "sourceRef": "wsww",
+      "sourceRef": "wsws",
       "words": [
         {
           "arabic": "وَسْوَاس",
@@ -985,7 +973,7 @@
         {
           "arabic": "سَمْع",
           "translation": "hearing",
-          "transliteration": "sam"
+          "transliteration": "sam'"
         },
         {
           "arabic": "يَسْمَعُونَ",
@@ -1348,6 +1336,18 @@
           "arabic": "مُتَعَال",
           "translation": "the Most Exalted",
           "transliteration": "Mutaaal"
+        }
+      ]
+    },
+    "ن و س": {
+      "rootLetters": "ن و س",
+      "coreMeaning": "people, mankind",
+      "sourceRef": "nws",
+      "words": [
+        {
+          "arabic": "نَاس",
+          "translation": "people/mankind",
+          "transliteration": "naas"
         }
       ]
     }
