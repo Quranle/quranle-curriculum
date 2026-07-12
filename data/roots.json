@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "source": "Quranic Arabic Corpus — corpus.quran.com (University of Leeds)",
   "roots": {
     "ر ح م": {
@@ -70,6 +70,16 @@
           "arabic": "رَبَّانِيّ",
           "translation": "devoted to God",
           "transliteration": "rabbaanee"
+        },
+        {
+          "arabic": "أَرْبَاب",
+          "translation": "lords",
+          "transliteration": "arbaab"
+        },
+        {
+          "arabic": "رِبِّيُّون",
+          "translation": "devoted men of the Lord",
+          "transliteration": "ribbiyyoon"
         }
       ]
     },
@@ -185,6 +195,16 @@
           "arabic": "أَعَانَ",
           "translation": "He helped",
           "transliteration": "aana"
+        },
+        {
+          "arabic": "تَعَاوَنُوا",
+          "translation": "help one another!",
+          "transliteration": "taaawanoo"
+        },
+        {
+          "arabic": "مُسْتَعَان",
+          "translation": "the One whose help is sought",
+          "transliteration": "mustaaan"
         }
       ]
     },
@@ -246,6 +266,16 @@
           "arabic": "نِعْمَة",
           "translation": "blessing",
           "transliteration": "nimah"
+        },
+        {
+          "arabic": "نَعِيم",
+          "translation": "bliss",
+          "transliteration": "naeem"
+        },
+        {
+          "arabic": "أَنْعَام",
+          "translation": "cattle, livestock",
+          "transliteration": "anaam"
         }
       ]
     },
@@ -263,6 +293,16 @@
           "arabic": "غَضَب",
           "translation": "anger",
           "transliteration": "ghadab"
+        },
+        {
+          "arabic": "غَضِبَ",
+          "translation": "he was angry",
+          "transliteration": "ghadiba"
+        },
+        {
+          "arabic": "غَضْبَان",
+          "translation": "angry",
+          "transliteration": "ghadbaan"
         }
       ]
     },
@@ -280,6 +320,16 @@
           "arabic": "ضَلَال",
           "translation": "misguidance",
           "transliteration": "dalaal"
+        },
+        {
+          "arabic": "ضَلَّ",
+          "translation": "he went astray",
+          "transliteration": "dalla"
+        },
+        {
+          "arabic": "أَضَلَّ",
+          "translation": "he led astray",
+          "transliteration": "adalla"
         }
       ]
     },
@@ -297,6 +347,16 @@
           "arabic": "إِلَـٰه",
           "translation": "god/deity",
           "transliteration": "ilaah"
+        },
+        {
+          "arabic": "آلِهَة",
+          "translation": "gods, deities",
+          "transliteration": "aalihah"
+        },
+        {
+          "arabic": "اللَّهُمَّ",
+          "translation": "O Allah",
+          "transliteration": "Allaahumma"
         }
       ]
     },
@@ -336,6 +396,11 @@
           "arabic": "قَالَ",
           "translation": "he said",
           "transliteration": "qaala"
+        },
+        {
+          "arabic": "يَقُولُ",
+          "translation": "he says",
+          "transliteration": "yaqoolu"
         }
       ]
     },
@@ -353,6 +418,16 @@
           "arabic": "وَاحِد",
           "translation": "one/single",
           "transliteration": "waahid"
+        },
+        {
+          "arabic": "وَحْدَهُ",
+          "translation": "Him alone",
+          "transliteration": "wahdahu"
+        },
+        {
+          "arabic": "وَحِيد",
+          "translation": "alone",
+          "transliteration": "waheed"
         }
       ]
     },
@@ -387,6 +462,11 @@
           "arabic": "وَلَد",
           "translation": "child",
           "transliteration": "walad"
+        },
+        {
+          "arabic": "وَالِدَيْن",
+          "translation": "parents",
+          "transliteration": "waalidayn"
         }
       ]
     },
@@ -409,6 +489,11 @@
           "arabic": "كُنْ",
           "translation": "Be!",
           "transliteration": "kun"
+        },
+        {
+          "arabic": "مَكَان",
+          "translation": "place",
+          "transliteration": "makaan"
         }
       ]
     },
@@ -438,6 +523,16 @@
           "arabic": "مَعَاذ",
           "translation": "refuge",
           "transliteration": "maadh"
+        },
+        {
+          "arabic": "اسْتَعِذْ",
+          "translation": "seek refuge!",
+          "transliteration": "istaidh"
+        },
+        {
+          "arabic": "عُذْتُ",
+          "translation": "I have sought refuge",
+          "transliteration": "udhtu"
         }
       ]
     },
@@ -472,6 +567,11 @@
           "arabic": "خَالِق",
           "translation": "Creator",
           "transliteration": "Khaaliq"
+        },
+        {
+          "arabic": "خَلَّاق",
+          "translation": "Supreme Creator",
+          "transliteration": "Khallaaq"
         }
       ]
     },
@@ -624,6 +724,16 @@
           "arabic": "جَنَّة",
           "translation": "paradise/garden",
           "transliteration": "jannah"
+        },
+        {
+          "arabic": "أَجِنَّة",
+          "translation": "unborn children",
+          "transliteration": "ajinnah"
+        },
+        {
+          "arabic": "مَجْنُون",
+          "translation": "possessed, mad",
+          "transliteration": "majnoon"
         }
       ]
     },
@@ -641,6 +751,16 @@
           "arabic": "خَيْرَات",
           "translation": "good things",
           "transliteration": "khayraat"
+        },
+        {
+          "arabic": "أَخْيَار",
+          "translation": "the chosen good",
+          "transliteration": "akhyaar"
+        },
+        {
+          "arabic": "خِيَرَة",
+          "translation": "the choice",
+          "transliteration": "khiyarah"
         }
       ]
     },
@@ -670,6 +790,16 @@
           "arabic": "خَاسِر",
           "translation": "loser",
           "transliteration": "khaasir"
+        },
+        {
+          "arabic": "خَسِرَ",
+          "translation": "he lost",
+          "transliteration": "khasira"
+        },
+        {
+          "arabic": "أَخْسَرِين",
+          "translation": "greatest losers",
+          "transliteration": "akhsareen"
         }
       ]
     },
@@ -719,6 +849,11 @@
           "arabic": "عَامِل",
           "translation": "worker/doer",
           "transliteration": "aamil"
+        },
+        {
+          "arabic": "أَعْمَال",
+          "translation": "deeds",
+          "transliteration": "amaal"
         }
       ]
     },
@@ -741,6 +876,11 @@
           "arabic": "إِصْلَاح",
           "translation": "reform",
           "transliteration": "islaah"
+        },
+        {
+          "arabic": "صَالِحِين",
+          "translation": "the righteous",
+          "transliteration": "saaliheen"
         }
       ]
     },
@@ -787,6 +927,16 @@
           "arabic": "صَابِر",
           "translation": "patient one",
           "transliteration": "saabir"
+        },
+        {
+          "arabic": "اصْبِرُوا",
+          "translation": "be patient!",
+          "transliteration": "isbiroo"
+        },
+        {
+          "arabic": "صَبَّار",
+          "translation": "most patient",
+          "transliteration": "sabbaar"
         }
       ]
     },
@@ -809,6 +959,11 @@
           "arabic": "قَادِر",
           "translation": "able",
           "transliteration": "qaadir"
+        },
+        {
+          "arabic": "قَدَّرَ",
+          "translation": "He measured out",
+          "transliteration": "qaddara"
         }
       ]
     },
@@ -826,6 +981,16 @@
           "arabic": "سَمِعَ",
           "translation": "he heard",
           "transliteration": "samia"
+        },
+        {
+          "arabic": "سَمْع",
+          "translation": "hearing",
+          "transliteration": "sam"
+        },
+        {
+          "arabic": "يَسْمَعُونَ",
+          "translation": "they hear",
+          "transliteration": "yasmaoon"
         }
       ]
     },
@@ -843,6 +1008,16 @@
           "arabic": "بَصَر",
           "translation": "sight",
           "transliteration": "basar"
+        },
+        {
+          "arabic": "أَبْصَار",
+          "translation": "eyes, sights",
+          "transliteration": "absaar"
+        },
+        {
+          "arabic": "يُبْصِرُونَ",
+          "translation": "they see",
+          "transliteration": "yubsiroon"
         }
       ]
     },
@@ -855,6 +1030,21 @@
           "arabic": "قُدُّوس",
           "translation": "the Holy One",
           "transliteration": "Quddoos"
+        },
+        {
+          "arabic": "نُقَدِّسُ",
+          "translation": "we sanctify",
+          "transliteration": "nuqaddisu"
+        },
+        {
+          "arabic": "مُقَدَّس",
+          "translation": "sacred",
+          "transliteration": "muqaddas"
+        },
+        {
+          "arabic": "قُدُس",
+          "translation": "holy (spirit)",
+          "transliteration": "qudus"
         }
       ]
     },
@@ -877,6 +1067,11 @@
           "arabic": "مُسْلِم",
           "translation": "Muslim (one who submits)",
           "transliteration": "Muslim"
+        },
+        {
+          "arabic": "سَلِيم",
+          "translation": "sound, pure (heart)",
+          "transliteration": "saleem"
         }
       ]
     },
@@ -894,6 +1089,16 @@
           "arabic": "عِزَّة",
           "translation": "honour/might",
           "transliteration": "izzah"
+        },
+        {
+          "arabic": "أَعَزّ",
+          "translation": "mightier",
+          "transliteration": "aazz"
+        },
+        {
+          "arabic": "تُعِزُّ",
+          "translation": "You honour",
+          "transliteration": "tuizzu"
         }
       ]
     },
@@ -928,6 +1133,11 @@
           "arabic": "أَكْبَر",
           "translation": "greater/greatest",
           "transliteration": "Akbar"
+        },
+        {
+          "arabic": "كُبْرَى",
+          "translation": "greatest",
+          "transliteration": "kubraa"
         }
       ]
     },
@@ -945,6 +1155,16 @@
           "arabic": "سَمَاوَات",
           "translation": "heavens",
           "transliteration": "samaawaat"
+        },
+        {
+          "arabic": "اسْم",
+          "translation": "name",
+          "transliteration": "ism"
+        },
+        {
+          "arabic": "سَمِيّ",
+          "translation": "namesake",
+          "transliteration": "samiyy"
         }
       ]
     },
@@ -974,6 +1194,16 @@
           "arabic": "قُرْآن",
           "translation": "Quran (recitation)",
           "transliteration": "Quran"
+        },
+        {
+          "arabic": "قُرِئَ",
+          "translation": "it is recited",
+          "transliteration": "quria"
+        },
+        {
+          "arabic": "قَرَأْنَاهُ",
+          "translation": "We have recited it",
+          "transliteration": "qaraanaahu"
         }
       ]
     },
@@ -1020,6 +1250,11 @@
           "arabic": "كُفْر",
           "translation": "disbelief",
           "transliteration": "kufr"
+        },
+        {
+          "arabic": "كَفَّارَة",
+          "translation": "expiation",
+          "transliteration": "kaffaarah"
         }
       ]
     },
@@ -1069,6 +1304,11 @@
           "arabic": "أَحْيَا",
           "translation": "He gave life",
           "transliteration": "ahyaa"
+        },
+        {
+          "arabic": "يُحْيِي",
+          "translation": "He gives life",
+          "transliteration": "yuhyee"
         }
       ]
     },
@@ -1103,6 +1343,11 @@
           "arabic": "تَعَالَى",
           "translation": "He is exalted",
           "transliteration": "taaala"
+        },
+        {
+          "arabic": "مُتَعَال",
+          "translation": "the Most Exalted",
+          "transliteration": "Mutaaal"
         }
       ]
     }
